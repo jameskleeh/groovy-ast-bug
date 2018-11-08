@@ -1,0 +1,3 @@
+rootProject.name = 'jdk-bug'
+
+include 'app', 'processor', 'api'
